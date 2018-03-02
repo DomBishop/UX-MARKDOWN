@@ -59,3 +59,24 @@
 
 ## [User personas](https://drive.google.com/open?id=1Vj_lbFFjSIwNnTGtZiWFEIoSbJH9Xq_VhKhHvQieLPw)
 
+Based on our research and interviews into the LGBT community, these personas helped us to remember who we were designing for. In summary, we found that a) our users needed an objective and a way to track it and b) our users wouldn’t be comfortable with being forced into certain initial concepts of our app.
+
+## Wireframes
+
+- [Old wireframe](https://drive.google.com/open?id=1CDVb0XBqxLOKzmyAVRbKv7iAQCfppmGC)
+
+- [New wireframe](https://drive.google.com/open?id=15D_yWQ-1TBt15E4CF9p2hiavjh-ZpF8C)
+
+- [User flow](https://drive.google.com/open?id=1GAdc9n9Rd9CTlOtjHflJGfxFs2rNlcAk)
+
+## Prototypes
+
+- [Old prototype](https://drive.google.com/open?id=1yaxaTfm_76eJfH1xJDIelNh79WTbzUoV)
+
+- [New prototype](https://drive.google.com/open?id=1CNg_Ou0gtAvRqACUM7SitKEg0alpJ8Jf)
+
+- [Prototype flow](https://drive.google.com/open?id=1AGBob2Ftpb2plf-BGkaFyP4_khCJlJV9)
+
+## Concept video
+
+## User-testing report
