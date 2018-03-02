@@ -15,13 +15,13 @@
 
 
 ## Blogs
-1. [Interviewing Humans]()
-2. [Learning to wireframe: 10 best practices]()
-3. [Inspiring museum interactives]()
-4. [Formative feedback action plan]()
-5. [User-testing: what did we learn?]()
-6. [Telling the story of your project / research]()
-7. [UX choreography]()
+1. [Interviewing Humans](https://medium.com/@domonic_bishop/interviewing-humans-e88f91b27e9e)
+2. [Learning to wireframe: 10 best practices](https://medium.com/@domonic_bishop/learning-to-wireframe-10-best-practices-ea232ade5127)
+3. [Inspiring museum interactives](https://medium.com/@domonic_bishop/pick-your-favourite-digital-museum-experience-32b55211c313)
+4. [Formative feedback action plan](https://medium.com/@domonic_bishop/review-the-formative-feedback-52dd4cd414b8)
+5. [User-testing: what did we learn?](https://medium.com/@domonic_bishop/what-did-you-learn-about-your-prototype-and-what-did-you-learn-about-user-testing-as-a-ux-method-a7204e936036)
+6. [Telling the story of your project / research](https://medium.com/@domonic_bishop/3-take-aways-from-get-the-most-out-of-your-research-with-storytelling-1bf9e8bb13d8)
+7. [UX choreography](https://medium.com/@domonic_bishop/3-main-take-aways-from-the-principles-of-ux-choreography-b89fbcf0d490)
 
 
 ## Change by Design
