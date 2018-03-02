@@ -47,3 +47,15 @@
 ### Final concept:
 
 <img src="https://i.imgur.com/A5uXB1i.png" width="600">
+
+
+## Experience map
+
+- [First paper draft](https://drive.google.com/open?id=1Z470t7lsRUXb37RMp3rTPkq3rD1CvPdW)
+
+- [Old experience map](https://drive.google.com/open?id=1Wzbnyhhhe7vXxVhQviArdZmvpMOFBnt_)
+
+- [New experience map](https://drive.google.com/open?id=1XPuHak-oeSTtOpTd96ZPt04QfgDIsa8T)
+
+## [User personas](https://drive.google.com/open?id=1Vj_lbFFjSIwNnTGtZiWFEIoSbJH9Xq_VhKhHvQieLPw)
+
