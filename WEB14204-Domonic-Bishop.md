@@ -32,7 +32,7 @@
 7. [UX choreography](https://medium.com/@domonic_bishop/3-main-take-aways-from-the-principles-of-ux-choreography-b89fbcf0d490)
 
 
-## Competitor analysis
+## [Competitor analysis](https://drive.google.com/open?id=12XkZdo-OxWi1CBYtpY-kvG0UmCEiKzsOPLtdOQwfjCU)
 
 ## Elevator pitch
 
@@ -77,6 +77,6 @@ Based on our research and interviews into the LGBT community, these personas hel
 
 - [Prototype flow](https://drive.google.com/open?id=1AGBob2Ftpb2plf-BGkaFyP4_khCJlJV9)
 
-## Concept video
+## [Concept video](https://drive.google.com/open?id=1UqAx6clH8zLT3DbCIJwOlGHC3T8NSeTK)
 
-## User-testing report
+## [User-testing report]()
