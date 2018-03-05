@@ -14,6 +14,7 @@
 - [Prototypes](#prototypes)
 - [Concept video](#concept-video)
 - [User-testing report](#user-testing-report)
+- [Self Assessment](self-assessment)
 
 
 
@@ -80,3 +81,5 @@ Based on our research and interviews into the LGBT community, these personas hel
 ## [Concept video](https://drive.google.com/open?id=1UqAx6clH8zLT3DbCIJwOlGHC3T8NSeTK)
 
 ## [User-testing report](https://drive.google.com/open?id=1ULQ_Czq3YZ803wv0Rc-EoRbcuWbjj-UUZBMLzYbZjEw)
+
+## [Self Assessment](https://drive.google.com/open?id=1SIBS7_TOsA6uxGnlX3jYmnjERFg1rk3uFuAxbVebm1U)
