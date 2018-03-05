@@ -14,7 +14,7 @@
 - [Prototypes](#prototypes)
 - [Concept video](#concept-video)
 - [User-testing report](#user-testing-report)
-- [Self Assessment](self-assessment)
+- [Self Assessment](#self-assessment)
 
 
 
