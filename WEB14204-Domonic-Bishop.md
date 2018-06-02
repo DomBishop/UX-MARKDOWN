@@ -114,7 +114,7 @@ Based on our research and interviews into the LGBT community, these personas hel
 - [Interviews](#term-3-interviews)
 - [Paper-prototypes](#term-3-paper-prototypes)
 - [Digital-Prototypes](#term-3-digital-prototypes)
-- [User-testing feedback](#term-3-user-testing-report)
+- [User-testing report](#term-3-user-testing-report)
 - [Concept video](#term-3-concept-video)
 - [Landing Page](#term-3-landing-page)
 
@@ -139,3 +139,29 @@ Based on our research and interviews into the LGBT community, these personas hel
 ## Term 3 10 bad ideas
 (only 8)
 
+1. Data overload: likes, retweets, and hearts are constantly being thrown out to ruin algorithms
+2. Laptop case designed to cover webcam and mic
+3. External cameras that work in tangent with your phone (like The Circle)
+4. A game that teaches kids the abilities of their devices
+5. The human smartphone 
+6. Data broker eBay
+7. Hide from the smartphone (game)
+8. A game where you use a smartphone to track people
+9. can it do this? Sees what kind of data a device can collect
+10. A fitness app for becoming neutral online
+
+## Term 3 Concept One Pager
+
+<img src="https://i.imgur.com/d7EXsPD.png" width="600">
+
+## Term 3 Interviews
+
+## Term 3 Paper-prototypes
+
+## Term 3 Digital-Prototypes
+
+## Term 3 User-testing report
+
+## Term 3 Concept Video
+
+## Term 3 Landing Page
