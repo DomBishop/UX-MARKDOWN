@@ -154,9 +154,17 @@ Based on our research and interviews into the LGBT community, these personas hel
 
 <img src="https://i.imgur.com/d7EXsPD.png">
 
-## Term 3 Interviews
+## [Term 3 Interviews](https://docs.google.com/document/d/1iaTN8LCu0wjp2DLRo8qhQTchIR77kpnMSZJeeWx-x3s/edit?usp=sharing)
 
 ## Term 3 Paper-prototypes
+
+<img src="https://i.imgur.com/I0A93iA.jpg">
+
+<img src="https://i.imgur.com/nU4OIuU.jpg">
+
+<img src="https://i.imgur.com/liBJ6BY.jpg">
+
+<img src="https://i.imgur.com/Ub57rCG.jpg">
 
 ## Term 3 Digital-Prototypes
 
