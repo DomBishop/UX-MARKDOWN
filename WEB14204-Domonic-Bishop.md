@@ -152,7 +152,7 @@ Based on our research and interviews into the LGBT community, these personas hel
 
 ## Term 3 Concept One Pager
 
-<img src="https://i.imgur.com/d7EXsPD.png" width="600">
+<img src="https://i.imgur.com/d7EXsPD.png">
 
 ## Term 3 Interviews
 
