@@ -135,3 +135,7 @@ Based on our research and interviews into the LGBT community, these personas hel
 ## Term 3 Mapping your filter bubbles
 
 <img src="https://i.imgur.com/xhfBA8m.jpg" width="600">
+
+## Term 3 10 bad ideas
+(only 8)
+
