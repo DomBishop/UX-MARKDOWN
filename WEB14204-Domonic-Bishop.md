@@ -3,6 +3,7 @@
 ## Domonic Bishop
 
 ## Index
+### Term 2:
 - [Presentations](#formative-link)
 - [Blogs](#blogs)
 - [Competitor analysis](#competitor-analysis)
@@ -15,6 +16,19 @@
 - [Concept video](#concept-video)
 - [User-testing report](#user-testing-report)
 - [Self Assessment](#self-assessment)
+
+### Term 3:
+- [Presentations](#term-3-formative-link)
+- [Blogs](#term-3-blogs)
+- [Mapping your filter bubbles](#term-3-mapping-your-filter-bubbles)
+- [10 (or so) bad ideas](term-3-10-bad-ideas)
+- [Concept one pager](#term-3-concept-one-pager)
+- [Interviews](#term-3-interviews)
+- [Paper-prototypes](#term-3-paper-prototypes)
+- [Digital-Prototypes](#term-3-digital-prototypes)
+- [User-testing feedback](#term-3-user-testing-report)
+- [Concept video](#term-3-concept-video)
+- [Landing Page](#term-3-landing-page)
 
 
 
@@ -83,3 +97,41 @@ Based on our research and interviews into the LGBT community, these personas hel
 ## [User-testing report](https://drive.google.com/open?id=1ULQ_Czq3YZ803wv0Rc-EoRbcuWbjj-UUZBMLzYbZjEw)
 
 ## [Self Assessment](https://drive.google.com/open?id=1SIBS7_TOsA6uxGnlX3jYmnjERFg1rk3uFuAxbVebm1U)
+
+
+
+---
+
+
+# Term 3
+
+### Term 3:
+- [Presentations](#term-3-formative-presentation)
+- [Blogs](#term-3-blogs)
+- [Mapping your filter bubbles](#term-3-mapping-your-filter-bubbles)
+- [10 (or so) bad ideas](term-3-10-bad-ideas)
+- [Concept one pager](#term-3-concept-one-pager)
+- [Interviews](#term-3-interviews)
+- [Paper-prototypes](#term-3-paper-prototypes)
+- [Digital-Prototypes](#term-3-digital-prototypes)
+- [User-testing feedback](#term-3-user-testing-report)
+- [Concept video](#term-3-concept-video)
+- [Landing Page](#term-3-landing-page)
+
+## [Term 3 Formative Presentation]()
+
+## [Term 3 Summative Presentation]()
+
+## Term 3 Blogs
+
+1. [Reflection of My Data Selfie](https://medium.com/@domonic_bishop/reflection-of-my-data-selfie-5bd3a373fa74)
+2. [Facebook on the Filter Bubble](https://medium.com/@domonic_bishop/facebook-on-the-filter-bubble-9e09bd3c22c3)
+3. [How I Designed my Survey](https://medium.com/@domonic_bishop/how-i-designed-my-survey-af5a7d3e21d3)
+4. [Review your formative feedback](https://medium.com/@domonic_bishop/review-your-formative-feedback-5f66862d98f0)
+5. [Inspiring Projects and mine](https://medium.com/@domonic_bishop/inspiring-projects-and-mine-181701f0e99f)
+6. [Building my Landing Page](https://medium.com/@domonic_bishop/building-my-landing-page-6e843a0f8480)
+7. [What did I learn]()
+
+## Term 3 Mapping your filter bubbles
+
+<img src="https://i.imgur.com/xhfBA8m.jpg" width="600">
