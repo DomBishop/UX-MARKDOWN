@@ -16,19 +16,7 @@
 - [Concept video](#concept-video)
 - [User-testing report](#user-testing-report)
 - [Self Assessment](#self-assessment)
-
-### Term 3:
-- [Presentations](#term-3-formative-link)
-- [Blogs](#term-3-blogs)
-- [Mapping your filter bubbles](#term-3-mapping-your-filter-bubbles)
-- [10 (or so) bad ideas](term-3-10-bad-ideas)
-- [Concept one pager](#term-3-concept-one-pager)
-- [Interviews](#term-3-interviews)
-- [Paper-prototypes](#term-3-paper-prototypes)
-- [Digital-Prototypes](#term-3-digital-prototypes)
-- [User-testing feedback](#term-3-user-testing-report)
-- [Concept video](#term-3-concept-video)
-- [Landing Page](#term-3-landing-page)
+- [Term 3](#term-3)
 
 
 
