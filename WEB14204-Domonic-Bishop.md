@@ -146,15 +146,19 @@ Based on our research and interviews into the LGBT community, these personas hel
 
 ## Term 3 Paper-prototypes
 
+This is the first prototype produced for the concept:
+
 <img src="https://i.imgur.com/I0A93iA.jpg">
 
-<img src="https://i.imgur.com/nU4OIuU.jpg">
-
-<img src="https://i.imgur.com/liBJ6BY.jpg">
+This is the third prototype produced for the concept (which was loaded into Marvel):
 
 <img src="https://i.imgur.com/Ub57rCG.jpg">
 
 ## Term 3 Digital-Prototypes
+
+## [v1](https://marvelapp.com/171jif96/screen/43695660)
+
+## [v2](https://marvelapp.com/90d6180/screen/43695532)
 
 ## Term 3 User-testing report
 
