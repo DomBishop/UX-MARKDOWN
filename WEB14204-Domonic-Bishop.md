@@ -118,7 +118,7 @@ Based on our research and interviews into the LGBT community, these personas hel
 4. [Review your formative feedback](https://medium.com/@domonic_bishop/review-your-formative-feedback-5f66862d98f0)
 5. [Inspiring Projects and mine](https://medium.com/@domonic_bishop/inspiring-projects-and-mine-181701f0e99f)
 6. [Building my Landing Page](https://medium.com/@domonic_bishop/building-my-landing-page-6e843a0f8480)
-7. [What did I learn]()
+7. [What did I learn](https://medium.com/@domonic_bishop/ux-term-3-reflection-2d7c963e861f)
 
 ## Term 3 Mapping your filter bubbles
 
