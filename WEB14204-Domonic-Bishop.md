@@ -167,4 +167,8 @@ The diary's UI was inspired by the one found in MyFitnessPal:
 
 ## Term 3 [Concept Video](https://drive.google.com/file/d/1BaPEiMHeCSN1HmY3iHCjqziIqs3PSlXf/view?usp=sharing)
 
+[This is the story board I made for it using the Labov structure](https://drive.google.com/file/d/1mG_PFW0fHcEXqtOyFzIgTnpBEwQ1R3Co/view?usp=sharing)
+
+[And this is the script.](https://docs.google.com/document/d/1iY_TVU76OwctQICANXkH3aPlxzX4ZmB9r20XnKiGaz8/edit?usp=sharing)
+
 ## Term 3 [Landing Page](https://drive.google.com/file/d/1G_399RKdZaZNI1nf3sglbvKedcTRG8B6/view?usp=sharing)
