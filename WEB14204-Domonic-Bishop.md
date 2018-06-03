@@ -125,7 +125,6 @@ Based on our research and interviews into the LGBT community, these personas hel
 <img src="https://i.imgur.com/xhfBA8m.jpg" width="600">
 
 ## Term 3 10 bad ideas
-(only 8)
 
 1. Data overload: likes, retweets, and hearts are constantly being thrown out to ruin algorithms
 2. Laptop case designed to cover webcam and mic
@@ -159,6 +158,10 @@ This is the third prototype produced for the concept (which was loaded into Marv
 ## [v1](https://marvelapp.com/171jif96/screen/43695660)
 
 ## [v2](https://marvelapp.com/90d6180/screen/43695532)
+
+The diary's UI was inspired by the one found in MyFitnessPal:
+
+<img src="https://1y2u3hx8yml32svgcf0087imj-wpengine.netdna-ssl.com/wp-content/uploads/2013/10/da-ru-752x472.png">
 
 ## Term 3 [User-testing report](https://docs.google.com/document/d/1Y4OTXtMjeLEVRqZ_TgTzw74kuTreGlkQadq__nZAeIo/edit?usp=sharing)
 
