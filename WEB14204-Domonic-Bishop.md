@@ -108,7 +108,7 @@ Based on our research and interviews into the LGBT community, these personas hel
 
 ## [Term 3 Formative Presentation](https://docs.google.com/presentation/d/1PB-GZUBp_aQqnDA70jHZKlxFBytfQNcyUvcx5Ntw5AY/edit?usp=sharing)
 
-## [Term 3 Summative Presentation]()
+## [Term 3 Summative Presentation](https://docs.google.com/presentation/d/1qAmpscCtvmXXmUCNbI63EVaLz7Q7i_Y4m-jHlRgK4DQ/edit?usp=sharing)
 
 ## Term 3 Blogs
 
