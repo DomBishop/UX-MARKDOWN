@@ -149,7 +149,7 @@ This is the first prototype produced for the concept:
 
 <img src="https://i.imgur.com/I0A93iA.jpg">
 
-This is the third prototype produced for the concept (which was loaded into Marvel):
+This is the third prototype produced for the concept (which was loaded into Marvel while testing, hence the layout was odd):
 
 <img src="https://i.imgur.com/Ub57rCG.jpg">
 
