@@ -106,7 +106,7 @@ Based on our research and interviews into the LGBT community, these personas hel
 - [Concept video](#term-3-concept-video)
 - [Landing Page](#term-3-landing-page)
 
-## [Term 3 Formative Presentation]()
+## [Term 3 Formative Presentation](https://docs.google.com/presentation/d/1PB-GZUBp_aQqnDA70jHZKlxFBytfQNcyUvcx5Ntw5AY/edit?usp=sharing)
 
 ## [Term 3 Summative Presentation]()
 
