@@ -4,6 +4,7 @@
 
 ## Index
 ### Term 2:
+- [Changes](#changes)
 - [Presentations](#formative-link)
 - [Blogs](#blogs)
 - [Competitor analysis](#competitor-analysis)
@@ -18,7 +19,9 @@
 - [Self Assessment](#self-assessment)
 - [Term 3](#term-3)
 
+## Changes
 
+- Term 2 personas have been changed to have more detail and are no longer based on fictional characters.
 
 ## [Formative Link](https://drive.google.com/open?id=1qYuLCF-i4EVCvvFcRQF6GATMpZUKt-9G)
 
